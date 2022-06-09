@@ -1,0 +1,2 @@
+Duck speak "Quack quack...."
+Dog speak "Goa goa..."
