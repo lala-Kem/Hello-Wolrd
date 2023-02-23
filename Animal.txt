@@ -1,2 +1,3 @@
 Duck speak "Quack quack...."
 Dog speak "Goa goa..."
+Tiger speak "Guhm Guhm"
