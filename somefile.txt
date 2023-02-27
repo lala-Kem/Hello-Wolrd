@@ -14,3 +14,4 @@ Rebase 2
 Rebase 3
 Ok merge_b 1
 add function to check login 1
+add function to check login 2
