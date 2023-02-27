@@ -12,7 +12,6 @@ previous change 1
 Rebase 1
 Rebase 2
 Rebase 3
-<<<<<<< HEAD
 Rebase 4
 After mege 1
 After mege 2
@@ -27,4 +26,4 @@ rebase 101
 
 2
 add function check page body 2
-Ok merge_b 1
+add function to check login 1
