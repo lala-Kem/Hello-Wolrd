@@ -1,0 +1,28 @@
+something todo
+1
+I keep it in mid 
+4
+How long we can meet again?
+5
+6
+previous change 1
+8
+9
+10
+Rebase 1
+Rebase 2
+Rebase 3
+Rebase 4
+After mege 1
+After mege 2
+
+add 102-1
+rebase 103
+
+rebase 102
+
+rebase 101
+
+1
+
+2
