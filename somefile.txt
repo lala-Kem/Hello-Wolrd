@@ -18,7 +18,5 @@ After mege 2
 
 rebase 103
 
-rebase 102
-
-rebase 101
+add function check page footer 1
 
